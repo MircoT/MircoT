@@ -2,6 +2,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MircoT&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://sourcerer.io/mircot"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a>
+<a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/Python-2794%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/Go-734%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/JavaScript-500%20commits-orange.svg" alt=""></a>
+
 <!--
 **MircoT/MircoT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
