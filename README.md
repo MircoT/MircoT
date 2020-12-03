@@ -11,19 +11,26 @@
 
 * :briefcase: My most used editors<br/><br/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?logo=sublime-text&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Vim-%23019733.svg?logo=vim&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Neovim-%2357A143.svg?logo=neovim&logoColor=white&style=for-the-badge" />
 
+<hr />
+
 <details>
 <summary> :bar_chart: GitHub stats</summary>
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MircoT&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr />
-
 </details>
 
-<a href="https://sourcerer.io/mircot"><img src="https://raw.githubusercontent.com/MircoT/MircoT/master/logo_sourcerer.svg" height="24px" alt="Sourcerer"/> </a>
+<details>
+<summary> <a href="https://sourcerer.io/mircot"><img src="https://raw.githubusercontent.com/MircoT/MircoT/master/logo_sourcerer.svg" height="24px" alt="Sourcerer"/> </a>ourcerer stats</summary>
+<br />
 <a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/Python-2794%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/Go-734%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/JavaScript-500%20commits-orange.svg" alt=""></a>
+
+</details>
+
+
 
 
 
