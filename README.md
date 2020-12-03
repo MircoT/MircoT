@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there:exclamation: <img src="https://github.com/MircoT/MircoT/raw/master/hi.gif" height="42px" /> I'm Mirco! </h1>
+<h1 align="center"> Hi there:exclamation:<img src="https://github.com/MircoT/MircoT/raw/master/hi.gif" height="42px" /> I'm Mirco! </h1>
 
 
 <!-- badge source: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
