@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?logo=sublime-text&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Vim-%23019733.svg?logo=vim&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Neovim-%2357A143.svg?logo=neovim&logoColor=white&style=for-the-badge" />
 
 <details>
-<summary>:bar_chart: Github Stats</summary>
+<summary> :bar_chart: GitHub stats</summary>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MircoT&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
