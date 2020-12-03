@@ -1,7 +1,5 @@
 <h1 align="center">Hi there:exclamation: :wave:</h1>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MircoT&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- badge source: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge" /><img src="https://img.shields.io/badge/Windows-%230078D6?logo=windows&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Mac-%23999999?logo=apple&logoColor=white&style=for-the-badge" />
@@ -12,6 +10,14 @@
 <!-- <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" /> -->
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?logo=sublime-text&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Vim-%23019733.svg?logo=vim&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Neovim-%2357A143.svg?logo=neovim&logoColor=white&style=for-the-badge" />
+
+<details>
+<summary>:bar_chart: Github Stats</summary>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MircoT&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</details>
 
 <a href="https://sourcerer.io/mircot"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a>
 <a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/Python-2794%20commits-orange.svg" alt=""></a>
