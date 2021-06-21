@@ -16,7 +16,6 @@
 
 <h1></h1>
 
-
 <!-- badge source: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 * :computer: Systems I use<br/><br/><img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge" /><img src="https://img.shields.io/badge/Windows-%230078D6?logo=windows&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Mac-%23999999?logo=apple&logoColor=white&style=for-the-badge" />
@@ -29,6 +28,46 @@
 * :briefcase: My most used editors<br/><br/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?logo=sublime-text&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Vim-%23019733.svg?logo=vim&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Neovim-%2357A143.svg?logo=neovim&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Emacs-7F5AB6.svg?logo=gnuemacs&logoColor=white&style=for-the-badge" />
 
 <h1></h1>
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+<h3 align='center'> 🎓 Education </h3>
+
+- :scroll: **PhD in Computer Science**\
+  :calendar: 2017 - 2021\
+  :school: **University of Florence** - Florence, Italy
+
+- :scroll: **Master's Degree in Computer Science**\
+  :calendar: 2013 - 2017\
+  :school: **University of Perugia** - Perugia, Italy
+
+- :scroll: **Bachelor's Degree in Computer Science**\
+  :calendar: 2008 - 2013\
+  :school: **University of Perugia** - Perugia, Italy
+
+<h3 align='center'> 👷 Experience </h3>
+
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /><img align="right" src="https://img.shields.io/badge/cloud-3498DB?logo=icloud&logoColor=white" />
+
+- 👨🏼‍💻 **Developer at INFN section Perugia**\
+  :calendar: 2017 - moment\
+  :office: **INFN section Perugia** - Perugia, Italy
+
+<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+
+- 👨‍🏫 **Assistant Professor**\
+  :calendar: 2017 - 2019\
+  :school: **University of Perugia** - Perugia, Italy
+
+<img align="right" src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /><img align="right" src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=white" /><img align="right" src="https://img.shields.io/badge/NodeJS-339933?logo=nodedotjs&logoColor=white" />
+
+- 👨🏼‍💻 **HTML5 app Developer**\
+  :calendar: 2014 - 2015\
+  :office: **TeamDev S.r.l.** - Perugia, Italy
+
+</details>
 
 <details>
 <summary> :bar_chart: GitHub stats</summary>
