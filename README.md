@@ -49,10 +49,14 @@
 
 <h3 align='center'> 👷 Experience </h3>
 
+- 👨🏼‍💻 **DevOps Engineer at Malwarebytes**\
+  :calendar: 2022 - present\
+  :office: **Malwarebytes** - Bastia (Umbria), Italy
+  
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /><img align="right" src="https://img.shields.io/badge/cloud-3498DB?logo=icloud&logoColor=white" />
 
 - 👨🏼‍💻 **Developer at INFN section Perugia**\
-  :calendar: 2017 - present\
+  :calendar: 2017 - 2022\
   :office: **INFN section Perugia** - Perugia, Italy
 
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
