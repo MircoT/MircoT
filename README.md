@@ -81,19 +81,6 @@
 
 </details>
 
-<details>
-<summary> <a href="https://sourcerer.io/mircot"><img src="https://raw.githubusercontent.com/MircoT/MircoT/master/logo_sourcerer.svg" height="24px" alt="Sourcerer"/> </a>ourcerer stats</summary>
-<br />
-<a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/Python-2794%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/Go-734%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/mircot"><img src="https://img.shields.io/badge/JavaScript-500%20commits-orange.svg" alt=""></a>
-
-</details>
-
-
-
-
-
 <!--
 **MircoT/MircoT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
