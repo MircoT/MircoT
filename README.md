@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there:heavy_exclamation_mark:<img src="https://github.com/MircoT/MircoT/raw/master/hi.gif" height="42px" /> I'm Mirco:heavy_exclamation_mark: </h1>
+<h1 align="center"> Hi there ❗<img src="https://github.com/MircoT/MircoT/raw/master/hi.gif" height="42px" /> I'm Mirco ❗ </h1>
 
 <h4 align='center'>
   A developer in the cloud, from Italy.
